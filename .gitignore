@@ -1,0 +1,15 @@
+# Local secrets — never commit tokens or keys
+.env
+.env.*
+*.local
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Claude / MCP local state
+.claude/
+.mcp-auth/

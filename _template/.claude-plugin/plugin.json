@@ -1,0 +1,8 @@
+{
+  "name": "your-plugin-name",
+  "version": "0.1.0",
+  "description": "One sentence describing what this plugin helps a role do. Replace this.",
+  "author": {
+    "name": "Your Team"
+  }
+}

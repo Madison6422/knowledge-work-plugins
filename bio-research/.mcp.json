@@ -1,0 +1,40 @@
+{
+  "mcpServers": {
+    "pubmed": {
+      "type": "http",
+      "url": "https://pubmed.mcp.claude.com/mcp"
+    },
+    "biorxiv": {
+      "type": "http",
+      "url": "https://hcls.mcp.claude.com/biorxiv/mcp"
+    },
+    "c-trials": {
+      "type": "http",
+      "url": "https://hcls.mcp.claude.com/clinical_trials/mcp"
+    },
+    "chembl": {
+      "type": "http",
+      "url": "https://hcls.mcp.claude.com/chembl/mcp"
+    },
+    "open-targets": {
+      "type": "http",
+      "url": "https://mcp.platform.opentargets.org/mcp"
+    },
+    "synapse": {
+      "type": "http",
+      "url": "https://mcp.synapse.org/mcp"
+    },
+    "benchling": {
+      "type": "http",
+      "url": ""
+    },
+    "biorender": {
+      "type": "http",
+      "url": "https://mcp.services.biorender.com/mcp"
+    },
+    "consensus": {
+      "type": "http",
+      "url": "https://mcp.consensus.app/mcp"
+    }
+  }
+}
