@@ -1,12 +1,9 @@
 {
   "name": "knowledge-work-starter",
   "owner": {
-    "name": "Anthropic"
+    "name": "Madison6422"
   },
-  "metadata": {
-    "displayName": "Anthropic Claude Knowledge Work Plugins",
-    "description": "A copy-and-customize starter marketplace of role-based Claude plugins for knowledge-work teams."
-  },
+  "description": "A copy-and-customize starter marketplace of role-based Claude plugins for knowledge-work teams.",
   "plugins": [
     {
       "name": "productivity",
